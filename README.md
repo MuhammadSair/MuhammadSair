@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Sair
 
-🎓 Computer Science Undergraduate — Specializing in Artificial Intelligence  
+🎓 Computer Science Graduate — Specialized in Artificial Intelligence  
 📍 Lahore, Pakistan  
 📧 [msair565@gmail.com](mailto:msair565@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammadsair) • [GitHub](https://github.com/MuhammadSair)
